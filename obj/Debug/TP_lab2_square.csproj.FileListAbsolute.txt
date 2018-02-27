@@ -1,0 +1,9 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\bin\Debug\TP_lab2_square.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\bin\Debug\TP_lab2_square.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\bin\Debug\TP_lab2_square.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\obj\Debug\TP_lab2_square.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\obj\Debug\TP_lab2_square.Form1.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\obj\Debug\TP_lab2_square.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\obj\Debug\TP_lab2_square.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\obj\Debug\TP_lab2_square.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TP_lab2_square\TP_lab2_square\obj\Debug\TP_lab2_square.pdb
